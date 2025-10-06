@@ -5,6 +5,10 @@
 }
 
 @media (max-width:799px) {
+    .jiu
+    {
+        color:red;
+    }
     .fg
     {
         width: 200px;
@@ -32,4 +36,5 @@
         color: black;
         font-size: 30px;
     }
+
 }
