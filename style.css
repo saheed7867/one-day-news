@@ -24,6 +24,10 @@
         color: black;
         font-size: 30px;
     }
+    .kuku
+    {
+        width: 150px;
+    }
 }
 @media (max-width:432px)
 {
@@ -38,3 +42,4 @@
     }
 
 }
+
